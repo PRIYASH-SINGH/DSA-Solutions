@@ -6,9 +6,9 @@ A repository dedicated to tracking my progress, data structures implementation, 
 
 ### Arrays & Hashing
 *   **Two Sum** ([LeetCode #1](https://leetcode.com/problems/two-sum/))
-    *   **Approach:** Optimized using a Hash Map to find the complement in a single pass.
-    *   **Time Complexity:** $O(n)$
-    *   **Space Complexity:** $O(n)$
+    *   **Approach:** Brute-force search using nested loops to find the complement.
+    *   **Time Complexity:** $O(n^2)$
+    *   **Space Complexity:** $O(1)$ auxiliary space
 
 ---
 
