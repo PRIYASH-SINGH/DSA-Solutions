@@ -1,6 +1,6 @@
 # DSA & LeetCode Practice
 
-A repository dedicated to tracking my progress, data structures implementation, and problem-solving journey on platforms like LeetCode.
+A repository dedicated to tracking my progress, data structures implementation, and problem-solving journey on platforms like LeetCode. It also includes daily DSA challenges provided by my college on the Zift platform.
 
 ## 🚀 Problem Solved
 
