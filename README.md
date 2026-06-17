@@ -15,6 +15,10 @@ A repository dedicated to tracking my progress, data structures implementation, 
     *   **Approach:** Floyd's Cycle-Finding Algorithm (Two Pointers / Tortoise & Hare approach) using two pointers moving at different speeds.
     *   **Time Complexity:** $O(n)$
     *   **Space Complexity:** $O(1)$ auxiliary space
+*   **Reverse Linked List** ([LeetCode #206](https://leetcode.com/problems/reverse-linked-list/))
+    *   **Approach:** Iterative pointer manipulation using `prev`, `curr`, and `nextTemp` pointers to reverse node links in place.
+    *   **Time Complexity:** $O(n)$
+    *   **Space Complexity:** $O(1)$ auxiliary space
 
 ---
 
