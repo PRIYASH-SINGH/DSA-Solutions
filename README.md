@@ -19,6 +19,10 @@ A repository dedicated to tracking my progress, data structures implementation, 
     *   **Approach:** Iterative pointer manipulation using `prev`, `curr`, and `nextTemp` pointers to reverse node links in place.
     *   **Time Complexity:** $O(n)$
     *   **Space Complexity:** $O(1)$ auxiliary space
+*   **Intersection of Two Linked Lists** ([LeetCode #160](https://leetcode.com/problems/intersection-of-two-linked-lists/))
+    *   **Approach:** Two-pointer technique where each pointer switches to the other list's head upon reaching the end. This offsets the difference in list lengths, allowing them to meet at the intersection point.
+    *   **Time Complexity:** $O(m + n)$
+    *   **Space Complexity:** $O(1)$ auxiliary space
 
 ---
 
