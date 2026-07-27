@@ -1,6 +1,5 @@
 import java.util.*;
 
-
 public class RECURSIVE_LINEAR_BINARY_SEARCH {
    static int arr[]=new int[101];
  static int LinearSearch(int index,int n,int key)
@@ -30,7 +29,7 @@ public class RECURSIVE_LINEAR_BINARY_SEARCH {
     }
 
  }
-    public static void main (String args[]){
+    public static void main (String args[])         {
         Scanner scan = new Scanner(System.in);
         System.out.print("WELCOME !!! THIS IS A RECURSIVE LINEAR / BINARY SEARCH PROGRAM \nENTER SIZE OF ARRAY >>>");
         int result;
@@ -53,7 +52,7 @@ public class RECURSIVE_LINEAR_BINARY_SEARCH {
                     result =BinarySearch(1,n,key);
                     break;
             default :System.out.print("Invalid Choice !!!");
-            scan.close();
+
             return;
 
         }
@@ -61,6 +60,7 @@ public class RECURSIVE_LINEAR_BINARY_SEARCH {
             System.out.println("ELEMENT NOT FOUND !!!"); }
             else {
                 System.out.println("ELEMENT FOUND "+key+" AT "+result);
+        }
+                scan.close(); 
             }
-    }
 }
