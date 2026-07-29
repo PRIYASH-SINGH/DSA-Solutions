@@ -13,6 +13,7 @@ public class QUICK_SORT {
         }
         quickSort(arr, 0, n-1);//calls the quick sort function 
         System.out.println("Sorted array: " + java.util.Arrays.toString(arr));
+        scan.close();
     }
     static void quickSort(int arr[],int low,int high){//this function sorts the array
         if(low<high){//base case 
