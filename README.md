@@ -1,28 +1,34 @@
-# DSA & LeetCode Practice
+# 🚀 DSA & LeetCode Practice
 
-A repository dedicated to tracking my progress, data structures implementation, and problem-solving journey on platforms like LeetCode. It also includes daily DSA challenges provided by my college on the Zift platform.
+A clean, minimalist repository dedicated to tracking my progress, data structures implementation, and problem-solving journey on LeetCode.
 
-## 🚀 Problem Solved
+---
 
-### Arrays & Hashing
-*   **Two Sum** ([LeetCode #1](https://leetcode.com/problems/two-sum/))
-    *   **Approach:** Brute-force search using nested loops to find the complement.
-    *   **Time Complexity:** $O(n^2)$
-    *   **Space Complexity:** $O(1)$ auxiliary space
+### 📊 Progress Statistics
 
-### Linked List
-*   **Linked List Cycle** ([LeetCode #141](https://leetcode.com/problems/linked-list-cycle/))
-    *   **Approach:** Floyd's Cycle-Finding Algorithm (Two Pointers / Tortoise & Hare approach) using two pointers moving at different speeds.
-    *   **Time Complexity:** $O(n)$
-    *   **Space Complexity:** $O(1)$ auxiliary space
-*   **Reverse Linked List** ([LeetCode #206](https://leetcode.com/problems/reverse-linked-list/))
-    *   **Approach:** Iterative pointer manipulation using `prev`, `curr`, and `nextTemp` pointers to reverse node links in place.
-    *   **Time Complexity:** $O(n)$
-    *   **Space Complexity:** $O(1)$ auxiliary space
-*   **Intersection of Two Linked Lists** ([LeetCode #160](https://leetcode.com/problems/intersection-of-two-linked-lists/))
-    *   **Approach:** Two-pointer technique where each pointer switches to the other list's head upon reaching the end. This offsets the difference in list lengths, allowing them to meet at the intersection point.
-    *   **Time Complexity:** $O(m + n)$
-    *   **Space Complexity:** $O(1)$ auxiliary space
+| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| :---: | :---: | :---: | :---: |
+| **13** | **10** | **3** | **0** |
+
+---
+
+### 📚 Problem Index
+
+| # | Problem | Difficulty | Category | Solution |
+| :---: | :--- | :---: | :---: | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Arrays & Hashing | [TwoSum.java](01-Easy_Level/TwoSum.java) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [0033-search-in-rotated-sorted-array](02-Medium_Level/0033-search-in-rotated-sorted-array) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays & Hashing | [0053-maximum-subarray](02-Medium_Level/0053-maximum-subarray) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [LinkedCycle.java](01-Easy_Level/LinkedCycle.java) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Linked List | [IntersectionNode.java](01-Easy_Level/IntersectionNode.java) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [ReverseSingleLL.java](01-Easy_Level/ReverseSingleLL.java) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays & Hashing | [0217-contains-duplicate](01-Easy_Level/0217-contains-duplicate) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Arrays & Hashing | [0238-product-of-array-except-self](02-Medium_Level/0238-product-of-array-except-self) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | Arrays & Hashing | [0283-move-zeroes](01-Easy_Level/0283-move-zeroes) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | Arrays & Hashing | [1480-running-sum-of-1d-array](01-Easy_Level/1480-running-sum-of-1d-array) |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 Easy | Arrays & Hashing | [1920-build-array-from-permutation](01-Easy_Level/1920-build-array-from-permutation) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Arrays & Hashing | [1929-concatenation-of-array](01-Easy_Level/1929-concatenation-of-array) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | Arrays & Hashing | [3731-find-missing-elements](01-Easy_Level/3731-find-missing-elements) |
 
 ---
 
