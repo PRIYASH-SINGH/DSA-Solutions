@@ -36,3 +36,15 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 *   **Language:** Java
 *   **Editor:** VS Code
 *   **Version Control:** Git & GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
