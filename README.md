@@ -54,6 +54,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
