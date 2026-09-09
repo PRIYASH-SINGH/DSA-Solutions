@@ -59,6 +59,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
