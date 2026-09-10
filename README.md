@@ -85,6 +85,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
@@ -99,4 +100,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0509-fibonacci-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
