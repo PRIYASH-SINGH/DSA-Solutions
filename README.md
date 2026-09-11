@@ -48,6 +48,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +93,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0033-search-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
