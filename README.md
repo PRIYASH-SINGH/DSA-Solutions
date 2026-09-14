@@ -46,6 +46,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0344-reverse-string) |
 ## Array
@@ -113,4 +115,20 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
