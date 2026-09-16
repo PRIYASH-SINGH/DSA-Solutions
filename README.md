@@ -54,6 +54,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0344-reverse-string) |
@@ -84,6 +85,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -131,4 +133,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
