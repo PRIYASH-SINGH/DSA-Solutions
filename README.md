@@ -137,6 +137,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0077-combinations) |
 ## Depth-First Search
 |  |
 | ------- |
