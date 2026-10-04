@@ -71,6 +71,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0386-lexicographical-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
