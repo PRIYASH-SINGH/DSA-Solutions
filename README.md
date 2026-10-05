@@ -69,6 +69,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -90,6 +91,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +112,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -157,4 +161,12 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
