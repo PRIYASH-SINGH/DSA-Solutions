@@ -61,6 +61,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0039-combination-sum) |
@@ -100,6 +101,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -169,4 +171,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
