@@ -72,6 +72,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +87,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | ------- |
 | [0020-valid-parentheses](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -184,4 +186,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
