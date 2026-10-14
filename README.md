@@ -51,6 +51,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -190,4 +191,8 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
