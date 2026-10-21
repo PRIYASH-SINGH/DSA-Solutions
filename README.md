@@ -46,6 +46,7 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0125-valid-palindrome) |
@@ -194,5 +195,6 @@ A clean, minimalist repository dedicated to tracking my progress, data structure
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PRIYASH-SINGH/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
